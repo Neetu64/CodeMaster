@@ -1,0 +1,22 @@
+@media all and (min-width: 480px){
+    .Login{
+        position: absolute;
+        top: 50%;
+        left:50%;
+        transform: translate(-50%, -50%);
+        background: $darkblue;
+        background-size: cover;
+        border-radius: 5px;
+        
+    }
+ 
+    .box{
+        margin: 0 auto;
+        height: 400px;
+        width: 400px;
+        padding: 20px;
+        background: #f9f9f9;
+        border: 2px solid darkgrey;
+    }
+
+}
